@@ -1,0 +1,7 @@
+{
+  "name": "RootBySudoClone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
